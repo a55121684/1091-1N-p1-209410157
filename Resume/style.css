@@ -1,0 +1,52 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    text-align: justify;
+    margin: 10px auto;
+    padding: 10px;
+    border: 20px solid #bdbdbd;
+    width: 90%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 20px;
+    text-align: left;
+}
+
+h1 {
+    padding-top: 50px;
+}
+
+.header {
+    flex: auto;
+    display: flex;
+}
+
+.information {
+    padding-top: 20px;
+}
+
+p {
+    font-family: 標楷體;
+    padding: 10px;
+}
+
+.link {
+    padding: 10px;
+}
+
+table {
+    border: 2px solid cornflowerblue;
+    margin-left: 10px;
+}
+
+td {
+    border: 2px solid cornflowerblue;
+    width: 1000px;
+    height: 100px;
+    text-align: center;
+    font-family: 標楷體;
+    font: bold;
+}

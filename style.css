@@ -1,0 +1,28 @@
+
+
+body {
+    background-color: lightseagreen;
+
+    
+}
+
+.container{
+    width: 90%;
+    border: 10px solid;
+    margin: 20px auto;
+}
+
+table {
+    border: 5px solid deepskyblue;
+    width: 80%;
+    height: 700px;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+    color: linen;
+    margin: 20px auto 20px auto;
+    border-style: double;
+}
+td{
+    border: 2px solid deepskyblue;
+}

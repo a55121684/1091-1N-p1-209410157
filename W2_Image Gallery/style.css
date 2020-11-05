@@ -1,0 +1,21 @@
+#id209410603 img {
+    width: 15%;
+    margin: 2%;
+    float: middle;
+}
+
+#id209410603 {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+p {
+    text-transform: inherit;
+    font-family: 標楷體;
+    font-size: 40px;
+    font-weight: 200;
+    border-bottom: 5px solid bisque;
+    padding-bottom: 8px;
+    width: 15%;
+    background-color: green;
+}
